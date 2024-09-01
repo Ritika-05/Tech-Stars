@@ -11,7 +11,7 @@ This README provides an overview of the project, including team details, relevan
 **Team Members:**
 
 - **MEMBER_1** - 2021UCA1536 - [@Apastar16](https://github.com/Apastar16)
-- **MEMBER_2** - ROLL_NUMBER - [@AKSRathor](https://github.com/AKSRathor)
+- **MEMBER_2** - 2021UCA1832 - [@AKSRathor](https://github.com/AKSRathor)
 - **MEMBER_3** - ROLL_NUMBER - [@redhairrs](https://github.com/redhairrs)
 - **MEMBER_4** - ROLL_NUMBER - [@Yash-Dev-Solanki](https://github.com/Yash-Dev-Solanki)
 - **MEMBER_5** - ROLL_NUMBER - [@Amrita-Soney](https://github.com/Amrita-Soney)
