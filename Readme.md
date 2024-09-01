@@ -4,7 +4,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** Tech-Stars
+**Team Name:** Tech Stars
 
 **Team Leader:** [@USERNAME](https://github.com/Apastar16)
 
